@@ -1,0 +1,4 @@
+payload:
+  - 'kox.moe'
+  - 'vless.ikuralee.dynv6.net'
+  - '+.274w3.com'
