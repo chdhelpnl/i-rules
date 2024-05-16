@@ -2,3 +2,6 @@ payload:
   - 'kox.moe'
   - 'vless.ikuralee.dynv6.net'
   - '+.274w3.com'
+  - DOMAIN-KEYWORD,ikuralee
+  - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-KEYWORD,steam
