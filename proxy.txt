@@ -3,4 +3,5 @@ payload:
 #  - '+.dynv6.net'
   - '+.274w3.com'
   - '+.141jav.com'
-  - '+z-library.sx'
+  - '+.z-library.sx'
+  - '+.discord.com'
