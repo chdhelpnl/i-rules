@@ -5,3 +5,4 @@ payload:
   - '+.141jav.com'
   - '+.z-library.sx'
   - '+.discord.com'
+  - '+.down2048.com'
