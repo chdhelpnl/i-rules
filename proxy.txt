@@ -4,5 +4,4 @@ payload:
   - '+.274w3.com'
   - '+.141jav.com'
   - '+.z-library.sx'
-  - '+.discord.com'
   - '+.down2048.com'
