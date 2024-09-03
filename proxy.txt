@@ -1,6 +1,5 @@
 payload:
   - 'kox.moe'
-  - '+.dynv6.net'
   - '+.274w3.com'
   - '+.141jav.com'
   - '+.z-library.sx'
