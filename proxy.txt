@@ -5,3 +5,4 @@ payload:
   - '+.z-library.sx'
   - '+.down2048.com'
   - '+.cmliussss.com'
+  - '+.byxiao.top'
