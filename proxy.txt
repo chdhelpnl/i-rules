@@ -6,3 +6,4 @@ payload:
   - '+.down2048.com'
   - '+.cmliussss.com'
   - '+.byxiao.top'
+  - '+.v2rayssr.com'
