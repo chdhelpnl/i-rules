@@ -7,4 +7,5 @@ payload:
   - '+.cmliussss.com'
   - '+.byxiao.top'
   - '+.v2rayssr.com'
-  - '+.ip111.cn'
+  - 'ip111.cn'
+  - 'ping0.cc'
