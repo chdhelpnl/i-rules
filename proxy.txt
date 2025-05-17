@@ -13,3 +13,4 @@ payload:
   - '+.ipleak.net'
   - '+.mangot5.com'
   - '+.ok3756239.com'
+  - '+.2048.info'
