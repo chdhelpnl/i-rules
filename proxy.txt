@@ -12,5 +12,5 @@ payload:
   - 'ping0.cc'
   - '+.ipleak.net'
   - '+.mangot5.com'
-  - '+.ok3756239.com'
+  - '+.crbzmgdwnjlcyixn.cc'
   - '+.2048.info'
