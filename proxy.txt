@@ -15,4 +15,4 @@ payload:
   - '+.2048.info'
 
 
-  # - '+.mangot5.com'
+  - '+.mangot5.com'
