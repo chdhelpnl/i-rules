@@ -11,6 +11,8 @@ payload:
   - 'ip111.cn'
   - 'ping0.cc'
   - '+.ipleak.net'
-  #- '+.mangot5.com'
   - '+.crbzmgdwnjlcyixn.cc'
   - '+.2048.info'
+
+
+  # - '+.mangot5.com'
