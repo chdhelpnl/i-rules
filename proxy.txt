@@ -1,7 +1,7 @@
 payload:
   - 'x.com'
   - 'kox.moe'
-  - '+.274w3.com'
+  - '+.qichiyu.com'
   - '+.141jav.com'
   - '+.z-library.sx'
   - '+.down2048.com'
