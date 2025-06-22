@@ -13,7 +13,7 @@ payload:
   - '+.ipleak.net'
   - '+.crbzmgdwnjlcyixn.cc'
   - '+.2048.info'
-
+  - '+.z-lib.id'
   - '+.mangot5.com.tw'
   - '+.mangot5.com'
   - 'cloudflareinsights.com'
