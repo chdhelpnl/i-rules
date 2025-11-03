@@ -10,6 +10,7 @@ payload:
   - '+.v2rayssr.com'
   - 'ip111.cn'
   - 'ping0.cc'
+  - 'iping.cc'
   - '+.ipleak.net'
   - '+.crbzmgdwnjlcyixn.cc'
   - '+.2048.info'
